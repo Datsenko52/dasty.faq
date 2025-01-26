@@ -94,7 +94,7 @@ footer {
 .photo-gallery img:hover {
   transform: scale(1.1); /
 }
-p1,p2,p3,p4,p5,p6,p7,p8,9,p10{
+p{
   color:white;
   text-align: center;
 }
